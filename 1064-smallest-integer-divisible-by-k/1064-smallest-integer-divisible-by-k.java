@@ -1,6 +1,6 @@
 class Solution {
     public int smallestRepunitDivByK(int k) {
-        long n=0;
+        int n=0;
         if(k%2==0){
             return -1;
         }
