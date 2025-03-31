@@ -10,6 +10,7 @@
 | [0009-palindrome-number](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [1033-broken-calculator](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1033-broken-calculator) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Greedy
 |  |
 | ------- |
