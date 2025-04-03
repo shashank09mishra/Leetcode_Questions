@@ -7,6 +7,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [1033-broken-calculator](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1033-broken-calculator) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -18,6 +19,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0086-partition-list) |
 ## Two Pointers
 |  |
@@ -27,4 +29,8 @@
 |  |
 | ------- |
 | [1064-smallest-integer-divisible-by-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1064-smallest-integer-divisible-by-k) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
