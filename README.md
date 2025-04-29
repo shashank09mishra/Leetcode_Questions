@@ -21,13 +21,16 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0086-partition-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0086-partition-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1064-smallest-integer-divisible-by-k) |
 ## Recursion
 |  |
