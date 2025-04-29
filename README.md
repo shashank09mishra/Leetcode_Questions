@@ -37,8 +37,10 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2102-find-the-middle-index-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
