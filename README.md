@@ -33,4 +33,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0724-find-pivot-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
