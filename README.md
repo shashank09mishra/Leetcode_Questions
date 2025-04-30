@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1064-smallest-integer-divisible-by-k) |
 ## Recursion
@@ -41,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2102-find-the-middle-index-in-array) |
@@ -71,4 +73,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
