@@ -1,24 +1,46 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        HashSet<String> set=new HashSet<>();
-       for(int i =0; i<9;i++){
-        for(int j=0;j<9;j++){
-            if(board[i][j]=='.'){
-                continue;
-            }
-            String row=board[i][j]+"row"+i;
-            String col=board[i][j]+"col"+j;
-            String box=board[i][j]+"box"+(i/3)+"-"+(j/3);
+        HashSet<Character>[]rows= new HashSet[9];
+        HashSet<Character>[]cols= new HashSet[9];
+        HashSet<Character>[]box= new HashSet[9];
 
-            if(set.contains(row)||set.contains(col)||set.contains(box)){
-                return false;
-            }
-            set.add(row);
-            set.add(col);
-            set.add(box);
-
+        for(int row=0;row<9;row++){
+            rows[row] = new HashSet<Character>();
+           // rows[r] = new HashSet<Character>();
+            cols[row]=new HashSet<Character>();
+            box[row]=new HashSet<Character>();
         }
-       }
-       return true; 
+        for(int r=0;r<9;r++){
+            for(int c=0;c<9;c++){
+                if(board[r][c]=='.'){
+                    continue;
+                }
+
+                char val=board[r][c];
+
+                //check for 1-9 rows 0 based index for uniqueness
+                if(rows[r].contains(val)){
+                    return false;
+                }
+                rows[r].add(val);
+
+
+                //check for 1-9 cols 0 based index for uniqueness
+                if(cols[c].contains(val)){
+                    return false;
+                }
+                cols[c].add(val);
+
+
+                //check for 1-9 box 0 based index for uniqueness
+                int indx=(r/3)*3+(c/3);
+                if(box[indx].contains(val)){
+                    return false;
+                }
+                box[indx].add(val);
+
+            }
+        }
+        return true;
     }
 }
