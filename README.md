@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
@@ -98,4 +100,9 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
