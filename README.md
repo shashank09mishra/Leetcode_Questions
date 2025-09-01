@@ -54,6 +54,7 @@
 | [0042-trapping-rain-water](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0724-find-pivot-index) |
@@ -86,6 +87,7 @@
 | [0005-longest-palindromic-substring](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Trie
 |  |
 | ------- |
