@@ -12,6 +12,7 @@
 | [1033-broken-calculator](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1033-broken-calculator) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Greedy
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2102-find-the-middle-index-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2102-find-the-middle-index-in-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2181-smallest-index-with-equal-value) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Counting
 |  |
 | ------- |
@@ -119,4 +122,12 @@
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1917-maximum-average-pass-ratio) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
