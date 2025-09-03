@@ -1,41 +1,43 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        int index = -1;
-        int n = nums.length;
 
-        // Step 1: Find the first decreasing element from the end
-        for (int i = n - 2; i >= 0; i--) {
-            if (nums[i] < nums[i + 1]) {
-                index = i;
-                break;
+
+        //  (s1)find the break point
+        int indx=-1;
+        for(int i=0;i<nums.length-1;i++){
+            if(nums[i]<nums[i+1]){
+                indx=i;
             }
         }
 
-        // Step 2: Find the just larger element to the right and swap
-        if (index != -1) {
-            for (int i = n - 1; i > index; i--) {
-                if (nums[i] > nums[index]) {
-                    swap(nums, i, index); // use nums, not arr
-                    break;
-                }
+
+        if(indx==-1){
+
+            for(int i=0;i<nums.length/2;i++){
+                int temp=nums[nums.length-1-i];
+                nums[nums.length-1-i]=nums[i];
+                nums[i]=temp;
+            }
+            return;
+        }
+
+        //(s2) find the next greater element and swap with index;
+         for(int i = nums.length - 1; i > indx; i--){
+            if(nums[i] > nums[indx]){
+                int temp = nums[i];
+                nums[i] = nums[indx];
+                nums[indx] = temp;
+                break;  // ✅ swap only once
             }
         }
 
-        // Step 3: Reverse the elements after index
-        reverse(nums, index + 1, n - 1); // use nums, not arr
-    }
-
-    public void swap(int[] arr, int i, int j) {
-        int temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
-    }
-
-    public void reverse(int[] arr, int start, int end) {
-        while (start < end) {
-            swap(arr, start, end);
-            start++;
-            end--;
+        //(s3) reverse the suffix
+        for(int i = indx + 1, j = nums.length - 1; i < j; i++, j--){
+            int temp = nums[i];
+            nums[i] = nums[j];
+            nums[j] = temp;
         }
+
+
     }
 }
