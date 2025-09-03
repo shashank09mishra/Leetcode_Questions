@@ -33,6 +33,7 @@
 | [0075-sort-colors](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2102-find-the-middle-index-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2102-find-the-middle-index-in-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2181-smallest-index-with-equal-value) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Prefix Sum
 |  |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
