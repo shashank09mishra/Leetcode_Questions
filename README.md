@@ -9,6 +9,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [1033-broken-calculator](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1033-broken-calculator) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -57,6 +58,7 @@
 | [0036-valid-sudoku](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0075-sort-colors) |
@@ -123,6 +125,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
