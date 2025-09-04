@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
@@ -164,5 +165,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
