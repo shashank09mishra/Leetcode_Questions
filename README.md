@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0037-sudoku-solver) |
@@ -168,6 +169,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0792-binary-search) |
 ## Bit Manipulation
