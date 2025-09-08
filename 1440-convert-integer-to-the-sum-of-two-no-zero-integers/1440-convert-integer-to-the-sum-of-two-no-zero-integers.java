@@ -1,14 +1,11 @@
 class Solution {
     public int[] getNoZeroIntegers(int n) {
-        HashMap<Integer, Integer> map = new HashMap<>();
         for (int i = 1; i < n; i++) {
             int x = n - i;
-            map.put(i, x);
-            if (map.containsKey(x)) {
-                if (isNoZero(i) && isNoZero(x)) {
-                    return new int[] { i, x };
-                }
-            } 
+            int y=i;
+           if(x>0 && y>0 && isNoZero(x)==true && isNoZero(y)==true){
+            return new int[]{x,y};
+           }
         }
         return new int[] { -1, -1 };
     }
