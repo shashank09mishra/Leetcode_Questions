@@ -115,6 +115,7 @@
 | [0042-trapping-rain-water](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Trie
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Union Find
 |  |
 | ------- |
@@ -188,4 +190,8 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
