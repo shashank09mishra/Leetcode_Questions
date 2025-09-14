@@ -53,6 +53,7 @@
 | [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1006-vowel-spellchecker](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1006-vowel-spellchecker) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -83,6 +84,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0792-binary-search) |
+| [1006-vowel-spellchecker](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1651-shuffle-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1651-shuffle-string) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -114,6 +116,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
+| [1006-vowel-spellchecker](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1006-vowel-spellchecker) |
 | [1651-shuffle-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1651-shuffle-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3462-vowels-game-in-a-string) |
