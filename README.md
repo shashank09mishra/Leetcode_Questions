@@ -15,6 +15,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3462-vowels-game-in-a-string) |
@@ -93,6 +94,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2102-find-the-middle-index-in-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2181-smallest-index-with-equal-value) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -107,6 +109,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -216,4 +219,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
