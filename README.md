@@ -60,6 +60,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Recursion
 |  |
@@ -101,6 +102,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3797-design-spreadsheet](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [2429-design-a-food-rating-system](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -168,6 +171,7 @@
 | [0048-rotate-image](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
+| [3797-design-spreadsheet](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
 ## Backtracking
 |  |
 | ------- |
@@ -234,6 +238,7 @@
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
