@@ -61,6 +61,7 @@
 | [2429-design-a-food-rating-system](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Recursion
 |  |
@@ -103,6 +104,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0792-binary-search) |
+| [3827-implement-router](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -225,6 +228,7 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
 | ------- |
@@ -239,9 +243,11 @@
 | [2429-design-a-food-rating-system](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
