@@ -10,6 +10,7 @@
 | [0002-add-two-numbers](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0048-rotate-image) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1033-broken-calculator](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1033-broken-calculator) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -51,6 +52,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -129,6 +131,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1651-shuffle-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1651-shuffle-string) |
