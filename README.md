@@ -85,6 +85,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -146,6 +147,7 @@
 | [0005-longest-palindromic-substring](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Trie
