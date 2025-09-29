@@ -97,6 +97,7 @@
 | [0792-binary-search](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1006-vowel-spellchecker) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1651-shuffle-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1651-shuffle-string) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -151,6 +152,7 @@
 | [0053-maximum-subarray](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Trie
 |  |
