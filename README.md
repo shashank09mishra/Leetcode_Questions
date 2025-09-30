@@ -18,6 +18,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3462-vowels-game-in-a-string) |
@@ -106,6 +107,7 @@
 | [2181-smallest-index-with-equal-value](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2181-smallest-index-with-equal-value) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -213,6 +215,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Union Find
 |  |
@@ -263,4 +266,8 @@
 | [2429-design-a-food-rating-system](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3827-implement-router) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
