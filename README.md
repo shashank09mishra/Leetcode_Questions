@@ -16,6 +16,7 @@
 | [1064-smallest-integer-divisible-by-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1642-water-bottles](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0054-spiral-matrix) |
+| [1642-water-bottles](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
