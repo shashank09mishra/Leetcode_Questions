@@ -47,6 +47,7 @@
 | [0086-partition-list](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -171,6 +173,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -231,6 +234,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0792-binary-search) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3827-implement-router](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
