@@ -116,6 +116,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3827-implement-router) |
 ## Prefix Sum
@@ -124,6 +125,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2102-find-the-middle-index-in-array) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Stack
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Union Find
 |  |
 | ------- |
