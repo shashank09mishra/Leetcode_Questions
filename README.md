@@ -138,6 +138,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
+| [1078-remove-outermost-parentheses](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1078-remove-outermost-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
@@ -151,6 +152,7 @@
 | [0014-longest-common-prefix](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1006-vowel-spellchecker) |
+| [1078-remove-outermost-parentheses](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1651-shuffle-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1651-shuffle-string) |
 | [2429-design-a-food-rating-system](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2429-design-a-food-rating-system) |
