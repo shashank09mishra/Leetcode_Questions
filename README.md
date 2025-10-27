@@ -11,6 +11,7 @@
 | [0009-palindrome-number](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0319-bulb-switcher](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0319-bulb-switcher) |
 | [0830-largest-triangle-area](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0830-largest-triangle-area) |
 | [1033-broken-calculator](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1033-broken-calculator) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -264,6 +265,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0319-bulb-switcher) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3462-vowels-game-in-a-string) |
 ## Queue
