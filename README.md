@@ -63,6 +63,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1006-vowel-spellchecker](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1006-vowel-spellchecker) |
@@ -101,6 +102,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0724-find-pivot-index) |
@@ -306,4 +308,8 @@
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
