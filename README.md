@@ -58,6 +58,7 @@
 | [0001-two-sum](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -94,6 +95,7 @@
 | [0037-sudoku-solver](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
@@ -159,6 +161,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0242-valid-anagram) |
@@ -195,6 +198,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0217-contains-duplicate) |
