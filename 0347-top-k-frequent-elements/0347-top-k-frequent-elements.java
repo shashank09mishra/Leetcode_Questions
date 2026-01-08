@@ -5,8 +5,8 @@ class Solution {
             map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
         }
         List<int[]> arr = new ArrayList<>();
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            arr.add(new int[] { entry.getValue(), entry.getKey() });
+        for (Integer key:map.keySet()) {
+            arr.add(new int[] { map.get(key),key });
         }
         arr.sort((a, b) -> b[0] - a[0]);
         int res[] = new int[k];
