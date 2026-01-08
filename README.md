@@ -67,6 +67,7 @@
 | [0217-contains-duplicate](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1006-vowel-spellchecker](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1006-vowel-spellchecker) |
@@ -108,6 +109,7 @@
 | [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0724-find-pivot-index) |
@@ -195,6 +197,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +206,7 @@
 | [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -212,6 +216,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -231,6 +236,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3678-design-task-manager) |
@@ -321,4 +327,12 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
