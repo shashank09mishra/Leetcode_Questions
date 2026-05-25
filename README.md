@@ -144,6 +144,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0724-find-pivot-index) |
+| [1871-jump-game-vii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1871-jump-game-vii) |
 | [2102-find-the-middle-index-in-array](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2102-find-the-middle-index-in-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -172,6 +173,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1651-shuffle-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1651-shuffle-string) |
+| [1871-jump-game-vii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1871-jump-game-vii) |
 | [2429-design-a-food-rating-system](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3462-vowels-game-in-a-string) |
@@ -186,6 +188,7 @@
 | [0120-triangle](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1871-jump-game-vii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1871-jump-game-vii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -328,6 +331,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
+| [1871-jump-game-vii](https://github.com/shashank09mishra/Leetcode_Questions/tree/master/1871-jump-game-vii) |
 ## Bucket Sort
 |  |
 | ------- |
